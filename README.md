@@ -1,3 +1,6 @@
+This fork adds a `--json` output option, as well as allowing you to pass `userdata` (words to add to the dictionary) along to zxcvbn.  Switch to the `nocworx-lib` branch to use these features. These features [have been PR'd upstream](https://github.com/gamontal/zxcvbn-cli/pulls).
+
+-----
 ```
 _________________________________________________/\/\_______________________/\/\/\/\___/\/\______/\/\/\/\__
 _/\/\/\/\/\__/\/\__/\/\____/\/\/\/\__/\/\__/\/\__/\/\________/\/\/\/\_____/\/\_________/\/\________/\/\____
